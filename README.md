@@ -7,7 +7,7 @@ This project is to predict and classify for various aspects and check if the emp
 ## Attributes
 1)  satisfaction level(binary)
 2)  last evaluation(binary)
-3)  number project(binary) - nunmber of Projects undertaken
+3)  number project(binary) - number of Projects undertaken
 4)  average month hours(binary) - average monthly hours the employee has worked for
 5)  time spend company(binary) - time spent in the company while working
 6)  Work accident(binary) - work accident is "discrete occurrence in the course of work" leading to physical or mental occupational injury
