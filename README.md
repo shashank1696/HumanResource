@@ -32,6 +32,6 @@ This project is to predict and classify for various aspects and check if the emp
 7) sklearn.metrics
 8) matplotlib.pyplot
 
-## Conclusions
+## Conclusion
 Classification of various aspects are considered and Decision tree is constructed using Decision Tree Classifier
 Algorithm with 98.1% accuarcy for the Employees to leave the company.
