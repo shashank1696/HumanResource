@@ -2,7 +2,7 @@
 Classification of Employees leaving the Company for different aspects using Decision Tree Classification Algorithm
 
 ## Goal of this Project: 
-This project is to predict and classify for various aspects and check if the employees are leaving the company.
+This project is considered to predict and classify various aspects and check if the employees are leaving the company.
 
 ## Attributes
 1)  satisfaction level(binary)
@@ -33,5 +33,5 @@ This project is to predict and classify for various aspects and check if the emp
 8) matplotlib.pyplot
 
 ## Conclusion
-Classification of various aspects are considered and Decision tree is constructed using Decision Tree Classifier
+Classification of various aspects with respect to human resource department are considered and Decision tree is constructed using Decision Tree Classifier
 Algorithm with 98.1% accuarcy for the Employees to leave the company.
