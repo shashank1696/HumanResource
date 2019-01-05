@@ -5,15 +5,15 @@ Classification of Employees leaving the Company for different aspects using Deci
 This project is considered to predict and classify with respect to human resource department various aspects and check if the employees are leaving the company.
 
 ## Attributes
-1)  satisfaction level(binary)
-2)  last evaluation(binary)
-3)  number project(binary) - number of Projects undertaken
-4)  average month hours(binary) - average monthly hours the employee has worked for
-5)  time spend company(binary) - time spent in the company while working
-6)  Work accident(binary) - work accident is "discrete occurrence in the course of work" leading to physical or mental occupational injury
-7)  left(binary) - whether the employee left the company or not
-8)  promotion last 5years(binary) - promotions made by the company/employee in last 5 years
-9)  sales (categorial: IT,sales,support,hr,RandD,management,marketing,product mng,technical) - sales by different departments in a company 
+1)  satisfaction level(binary) - Ability to satisfy your customers to gain customer loyalty is the critical determinant of your success in     driving sales and growing your business.
+2)  last evaluation(binary) - It is a tool employers use to review the performance of an employee.
+3)  number project(binary) - number of Projects undertaken.
+4)  average month hours(binary) - average monthly hours the employee has worked for.
+5)  time spend company(binary) - time spent in the company while working.
+6)  Work accident(binary) - work accident is "discrete occurrence in the course of work" leading to physical or mental occupational injury.
+7)  left(binary) - whether the employee left the company or not.
+8)  promotion last 5years(binary) - promotions made by the company/employee in last 5 years.
+9)  sales (categorial: IT,sales,support,hr,RandD,management,marketing,product mng,technical) - sales by different departments in a company. 
 10) salary (categorial: low,medium,high)
 
 ## Data Handling
