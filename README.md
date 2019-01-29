@@ -32,5 +32,8 @@ This project is considered to predict and classify with respect to human resourc
 7) sklearn.metrics
 8) matplotlib.pyplot
 
+## Graphs
+- ![hr1](https://user-images.githubusercontent.com/44108439/51936858-2687af00-242f-11e9-953a-8d8a0c81d458.png)
+- 
 ## Conclusion
 Classification of various aspects with respect to human resource department are considered and Decision tree is constructed using Decision Tree Classifier Algorithm with 98.1% accuarcy for the Employees to leave the company.
