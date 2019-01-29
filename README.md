@@ -33,9 +33,11 @@ This project is considered to predict and classify with respect to human resourc
 8) matplotlib.pyplot
 
 ## Graphs
-- ![hr1](https://user-images.githubusercontent.com/44108439/51936858-2687af00-242f-11e9-953a-8d8a0c81d458.png)
-- ![hr2](https://user-images.githubusercontent.com/44108439/51937033-8ed69080-242f-11e9-80de-b6b5d132b0c3.png)
-- ![hr3](https://user-images.githubusercontent.com/44108439/51937061-a01f9d00-242f-11e9-92ad-36965f17653e.png)
+ ![hr1](https://user-images.githubusercontent.com/44108439/51936858-2687af00-242f-11e9-953a-8d8a0c81d458.png)
+ Fig: a) Decision Tree for HR dataset
+ 
+ ![hr2](https://user-images.githubusercontent.com/44108439/51937033-8ed69080-242f-11e9-80de-b6b5d132b0c3.png)
+ ![hr3](https://user-images.githubusercontent.com/44108439/51937061-a01f9d00-242f-11e9-92ad-36965f17653e.png)
 
 ## Conclusion
 Classification of various aspects with respect to human resource department are considered and Decision tree is constructed using Decision Tree Classifier Algorithm with 98.1% accuarcy for the Employees to leave the company.
