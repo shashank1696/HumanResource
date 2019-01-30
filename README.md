@@ -37,7 +37,7 @@ This project is considered to predict and classify with respect to human resourc
 -  Fig: a) Decision Tree for HR dataset
  
  ![hr2](https://user-images.githubusercontent.com/44108439/51937033-8ed69080-242f-11e9-80de-b6b5d132b0c3.png)
-
+-  Fig: b) ROC Curve for tree 1 with max depth = 3
 
  ![hr3](https://user-images.githubusercontent.com/44108439/51937061-a01f9d00-242f-11e9-92ad-36965f17653e.png)
 
