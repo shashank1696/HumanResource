@@ -40,7 +40,7 @@ This project is considered to predict and classify with respect to human resourc
 -  Fig: b) ROC Curve for tree 1 with max depth = 3
 
  ![hr3](https://user-images.githubusercontent.com/44108439/51937061-a01f9d00-242f-11e9-92ad-36965f17653e.png)
-
+-  Fig: c) ROC Curve for tree 1 with max depth = 8
 
 ## Conclusion
 Classification of various aspects with respect to human resource department are considered and Decision tree is constructed using Decision Tree Classifier Algorithm with 98.1% accuarcy for the Employees to leave the company.
