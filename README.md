@@ -45,3 +45,4 @@ This project is considered to predict and classify with respect to human resourc
 ## Conclusion
 Classification of various aspects with respect to human resource department are considered and Decision tree is constructed using Decision Tree Classifier Algorithm with 98.1% accuarcy for the Employees to leave the company.
 - ROC Curve for tree 1 with max depth = 3 have an accuracy of 96.8%
+- ROC Curve for tree 1 with max depth = 8 have an accuracy of 98.2%
